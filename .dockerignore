@@ -25,7 +25,7 @@ ENV
 *.swp
 *.swo
 
-# Docker (avoid recursive copy)
+# Docker 
 Dockerfile
 docker-compose.yml
 .dockerignore
